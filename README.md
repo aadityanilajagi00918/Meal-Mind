@@ -27,7 +27,7 @@ MealMind is a single-file, offline-first PWA that fixes both: a hyperlocal India
 
 MealMind's core claim is architectural, not cosmetic: **there is no backend.** No accounts, no login, no analytics, no Firebase, no remote API calls — ever. All food data ships inside the app, and all personal logs live in the browser's IndexedDB, on-device, for the lifetime of the app. A built-in export/import lets you back up or move that data yourself — file-based, on-device, still zero-cloud.
 
-> 🎥 \*\https://youtube.com/shorts/2sRPMcYKELY?si=8JOG6Kh2BmR_WXSh\*
+> 🎥 \https://youtube.com/shorts/2sRPMcYKELY?si=8JOG6Kh2BmR_WXSh\
 
 ## Try it
 
