@@ -33,7 +33,7 @@ MealMind's core claim is architectural, not cosmetic: **there is no backend.** N
 
 |||
 |-|-|
-|**Live demo**|*\[GitHub Pages link — add once deployed]*|
+|**Live demo**|[*\[GitHub Pages link — add once deployed]*](https://aadityanilajagi00918.github.io/Meal-MInd/)|
 |**Run locally (edge-execution demo)**|See [Run via Termux](#run-via-termux-edge-execution-demo) below|
 
 ## Architecture
