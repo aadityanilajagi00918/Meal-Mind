@@ -79,7 +79,7 @@ Every dish entry carries more than a calorie count:
 |Storage|IndexedDB|On-device, structured, no server needed|
 |Offline|Service Worker (cache-first)|Real offline guarantee, not just browser HTTP cache luck|
 |Local runtime|Termux + `python -m http.server`|Demonstrates edge execution on commodity Android hardware|
-|Hosting (demo)|GitHub Pages|Free, static, judge-clickable in two seconds|
+|Hosting (demo)|GitHub Pages|Free, static, reviewed and tryed in two seconds|
 
 ## Data sources \& privacy
 
