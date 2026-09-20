@@ -45,7 +45,7 @@ flowchart TB
         Browser\["Mobile Browser @ localhost:8080"]
         SW\["Service Worker (cache-first)"]
         IDB\[("IndexedDB\\n(all logged meals \& user data)")]
-        DB\["Embedded Dish Database\\n(1,600+ dishes, JSON, bundled in-app)"]
+        DB\["Embedded Dish Database\\n(5000+ regional name dishes, JSON, bundled in-app)"]
 
         Termux -- "serves static files" --> Browser
         Browser -- "registers" --> SW
