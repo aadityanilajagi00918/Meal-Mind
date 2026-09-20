@@ -57,7 +57,7 @@ flowchart TB
     Internet(("Internet")) -.->|"never contacted after first load"| Device
 ```
 
-`localhost` is treated as a [secure context](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts) by mobile browsers, so a real installable, offline-capable service worker works even though the "server" is just a one-line Python process running on the phone itself. See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full breakdown.
+`localhost` is treated as a [secure context](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts) by mobile browsers, so a real installable, offline-capable service worker works even though the "server" is just a one-line Python process running on the phone itself. See [ARCHITECTURE.md`](ARCHITECTURE.md) for the full breakdown.
 
 ## Zero-guilt UX
 
@@ -69,7 +69,7 @@ Every dish entry carries more than a calorie count:
 
 * **Provenance** (`data\_basis`): IFCT 2017, USDA FoodData Central, manufacturer label, or a documented recipe estimate — never an unsourced guess.
 * **Compliance flags**: Jain-diet status, Vrat/fasting status, and egg status, so the app can answer "can I eat this today" questions a generic tracker can't.
-* **Regional name coverage**: 5,000+ searchable dish names and regional spellings across 1,600+ curated dishes spanning 32 categories — try searching "Kanda Poha" or "Patal Poha" and watch it resolve straight to the right entry. See [`docs/DATA\_SOURCES.md`](docs/DATA_SOURCES.md) for exactly how this works and where every number in this README comes from.
+* **Regional name coverage**: 5,000+ searchable dish names and regional spellings across 1,600+ curated dishes spanning 32 categories — try searching "Kanda Poha" or "Patal Poha" and watch it resolve straight to the right entry. See [`SOURCES.md`](DATA_SOURCES.md) for exactly how this works and where every number in this README comes from.
 
 ## Tech stack
 
@@ -83,9 +83,9 @@ Every dish entry carries more than a calorie count:
 
 ## Data sources \& privacy
 
-* [`docs/DATA\_SOURCES.md`](docs/DATA_SOURCES.md) — where the numbers come from, and how dish search/matching actually works
-* [`docs/PRIVACY.md`](docs/PRIVACY.md) — the zero-cloud data policy, in plain language
-* [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — the edge-execution model and IndexedDB schema
+* [ SOURCES.md`](DATA_SOURCES.md) — where the numbers come from, and how dish search/matching actually works
+* [`PRIVACY.md`](PRIVACY.md) — the zero-cloud data policy, in plain language
+* [ ARCHITECTURE.md`](ARCHITECTURE.md) — the edge-execution model and IndexedDB schema
 
 ## Run via Termux (edge-execution demo)
 
