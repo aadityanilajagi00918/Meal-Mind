@@ -138,7 +138,7 @@ cd mealmind
 python -m http.server 8080
 ```
 
-Then open `http://localhost:8080/index-13-4.html` in your phone's browser. Turn on airplane mode after the first load and it keeps working — that's the point.
+Then open `http://localhost:8080/index.html` in your phone's browser. Turn on airplane mode after the first load and it keeps working — that's the point.
 
 ## License
 
