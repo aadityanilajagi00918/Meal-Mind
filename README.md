@@ -14,14 +14,29 @@
 
 \---
 
-## The problem
+## The Problem: A Global Crisis & The Indian Access Gap
 
-Most nutrition apps are built around Western food databases and Western behavior science. Neither fits well here:
+**The Scale of the Health Crisis**
+Nutrition is at the core of a massive global health emergency. Worldwide, over **589 million adults** are living with diabetes, and more than **1 billion** are living with obesity. In India alone, over 100 million people have diabetes. These are not just medical problems; they are problems deeply connected to our daily food intake. 
 
-* **The data doesn't fit.** Regional rotis, street food, dal varieties, and thousands of local names for the same or similar dishes aren't a rounding error in a US-built food database — they're missing entirely.
-* **The UX doesn't fit.** Streaks, red warning banners, and calorie-shaming push people toward disordered, guilt-driven tracking instead of sustainable habits.
+**The Hidden Micronutrient Deficit**
+Understanding what we eat in India is not as simple as counting calories. Micronutrient inadequacy is a severe, often overlooked issue, particularly concerning Vitamin B12 in vegetarian diets:
+* According to the **Indian Migration Study**, **35.1%** of vegetarian participants had a B12 intake below the recommended allowance, compared with just 12.6% of non-vegetarians.
+* A systematic review covering **270 Indian studies** found substantial evidence of widespread micronutrient deficiencies across studied populations.
 
-MealMind is a single-file, offline-first PWA that fixes both: a hyperlocal Indian vegetarian food database, and a **zero-guilt** logging experience with no streak-breaks, no shaming copy, and no negative reinforcement loops — just private, sustainable tracking.
+**The Access Gap**
+Telling people to simply "eat better" does not work if they lack practical tools. While detailed nutrition guidance exists, it typically requires significant time, money, clinical expertise, or access to professional help. Furthermore, generic western fitness trackers completely fail to capture the nuance of regional Indian diets. *The fix works. Access doesn't.*
+
+---
+
+## 💡 The Solution: Bridging the Gap with Edge Computing
+
+Meal Mind bridges this access gap by proving that detailed nutrition tracking can be performant, culturally nuanced, and 100% accessible to anyone with a smartphone. 
+
+* **Hyper-Localized Database:** Features 5,000+ Indian regional dishes, calculating complex macronutrients and 11 critical micronutrients (including B12) instantly.
+* **100% Offline & Edge-Computed:** Runs entirely on the device via an Android Termux Python server and IndexedDB storage. Zero network latency means users without reliable internet can still track their health seamlessly.
+* **Zero Cloud, Absolute Privacy:** By eliminating centralized backend infrastructure, user data never leaves the physical handset. No accounts, no dietitians, no SaaS subscriptions, and zero cost—completely removing the financial and privacy barriers to detailed nutrition tracking.
+
 
 ## The "Airplane Mode Proof"
 
