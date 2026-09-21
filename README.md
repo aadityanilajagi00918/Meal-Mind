@@ -48,7 +48,7 @@ MealMind's core claim is architectural, not cosmetic: **there is no backend.** N
 
 |||
 |-|-|
-|**Live demo**|(https://aadityanilajagi00918.github.io/Meal-Mind/)|
+|**Live demo**|https://aadityanilajagi00918.github.io/Meal-Mind|
 |**Run locally (edge-execution demo)**|See [Run via Termux](#run-via-termux-edge-execution-demo) below|
 
 ## Architecture
@@ -102,7 +102,7 @@ Every dish entry carries more than a calorie count:
 * [`PRIVACY.md`](PRIVACY.md) — the zero-cloud data policy, in plain language
 * [ ARCHITECTURE.md`](ARCHITECTURE.md) — the edge-execution model and IndexedDB schema
 
-### Local Developer Setup (Android / Termux)
+## Local Developer Setup (Android / Termux)
 
 **MealMind** is designed to run completely offline. You can host the entire Progressive Web App natively on an Android device using a **local Python HTTP server**.
 
@@ -129,16 +129,6 @@ python -m http.server 8080
 **4. Access the Application**
 Open **Google Chrome** (or your preferred mobile browser) and navigate to the local loopback address:
 **`http://localhost:8080`**
-
-## Run via Termux (edge-execution demo)
-
-```bash
-pkg install python
-cd mealmind
-python -m http.server 8080
-```
-
-Then open `http://localhost:8080/index.html` in your phone's browser. Turn on airplane mode after the first load and it keeps working — that's the point.
 
 ## License
 
