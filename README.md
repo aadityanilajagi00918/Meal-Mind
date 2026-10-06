@@ -42,13 +42,13 @@ Meal Mind bridges this access gap by proving that detailed nutrition tracking ca
 
 MealMind's core claim is architectural, not cosmetic: **there is no backend.** No accounts, no login, no analytics, no Firebase, no remote API calls — ever. All food data ships inside the app, and all personal logs live in the browser's IndexedDB, on-device, for the lifetime of the app. A built-in export/import lets you back up or move that data yourself — file-based, on-device, still zero-cloud.
 
-> 🎥 https://youtube.com/shorts/2sRPMcYKELY?si=8JOG6Kh2BmR_WXSh\
+> The Proof 🎥 https://youtube.com/shorts/2sRPMcYKELY?si=8JOG6Kh2BmR_WXSh\
 
 ## Try it
 
 |||
 |-|-|
-|**Live demo**|https://aadityanilajagi00918.github.io/Meal-Mind|
+|**Live link try it yourself **|https://aadityanilajagi00918.github.io/Meal-Mind|
 |**Run locally (edge-execution demo)**|See [Run via Termux](#run-via-termux-edge-execution-demo) below|
 
 ## Architecture
