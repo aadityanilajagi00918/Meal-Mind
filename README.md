@@ -33,7 +33,7 @@ Telling people to simply "eat better" does not work if they lack practical tools
 
 Meal Mind bridges this access gap by proving that detailed nutrition tracking can be performant, culturally nuanced, and 100% accessible to anyone with a smartphone. 
 
-* **Hyper-Localized Database:** Features 5,000+ Indian regional dishes, calculating complex macronutrients and 11 critical micronutrients (including B12) instantly.
+* **Hyper-Localized Database:** Features 5,000+ Indian regional searchable dishes, calculating complex macronutrients and 11 critical micronutrients (including B12) instantly.
 * **100% Offline & Edge-Computed:** Runs entirely on the device via an Android Termux Python server and IndexedDB storage. Zero network latency means users without reliable internet can still track their health seamlessly.
 * **Zero Cloud, Absolute Privacy:** By eliminating centralized backend infrastructure, user data never leaves the physical handset. No accounts, no dietitians, no SaaS subscriptions, and zero cost—completely removing the financial and privacy barriers to detailed nutrition tracking.
 
