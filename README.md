@@ -84,7 +84,7 @@ Every dish entry carries more than a calorie count:
 
 * **Provenance** (`data\_basis`): IFCT 2017, USDA FoodData Central, manufacturer label, or a documented recipe estimate — never an unsourced guess.
 * **Compliance flags**: Jain-diet status, Vrat/fasting status, and egg status, so the app can answer "can I eat this today" questions a generic tracker can't.
-* **Regional name coverage**: 5,000+ searchable dish names and regional spellings across 1,600+ curated dishes spanning 32 categories — try searching "Kanda Poha" or "Patal Poha" and watch it resolve straight to the right entry. See [`SOURCES.md`](DATA_SOURCES.md) for exactly how this works and where every number in this README comes from.
+* **Regional name coverage**: 5,000+ searchable dish names and regional spellings across 1,600+ curated general dishes spanning 32 categories — try searching "Kanda Poha" or "Patal Poha" and watch it resolve straight to the right entry. See [`SOURCES.md`](DATA_SOURCES.md) for exactly how this works and where every number in this README comes from.
 
 ## Tech stack
 
