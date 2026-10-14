@@ -51,6 +51,21 @@ MealMind's core claim is architectural, not cosmetic: **there is no backend.** N
 |**Live link try it yourself **|https://aadityanilajagi00918.github.io/Meal-Mind|
 |**Run locally (edge-execution demo)**|See [Run via Termux](#run-via-termux-edge-execution-demo) below|
 
+## Tested with real people
+
+MealMind was installed and used by **10+ people aged 18 to 50**, on their own phones, for about a week. They were friends, family members and gym-goers. This was informal testing, not a clinical study, and all feedback below is self-reported.
+
+**What we saw**
+
+- Most testers eat a standard Indian diet (poha, upma, sabzi, chapati, rice) and assumed they weren't missing much. MealMind's micronutrient view showed them gaps in protein, B12, iron and other nutrients they hadn't noticed.
+- After adjusting their meals for a week, several testers reported feeling more active and energetic.
+
+**What testers said** (paraphrased)
+
+- **Zayan (gym buddy):** Found it useful for tracking macros and micros without constant subscription pop-ups and upsells.
+- **Namrata (family member):** Liked tracking her overall nutrition, and was especially impressed by the add-your-own-dishes section, since she loves experimenting with recipes and cooking a wide variety of food.
+- **Steven (close friend):** Found it easy for everyday macro tracking, and the B12 and B9 tracking gave him a simple way to keep an eye on those nutrients.
+
 ## Architecture
 
 ```mermaid
