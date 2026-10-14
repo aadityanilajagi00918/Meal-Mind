@@ -63,7 +63,7 @@ MealMind was installed and used by **10+ people aged 18 to 50**, on their own ph
 **What testers said** (paraphrased)
 
 - **Zayan (gym buddy):** Found it useful for tracking macros and micros without constant subscription pop-ups and upsells.
-- **Namrata (family member):** Liked tracking her overall nutrition, and was especially impressed by the add-your-own-dishes section, since she loves experimenting with recipes and cooking a wide variety of food.
+- **Namrata (family member):** Liked tracking her overall nutrition, and was especially impressed by the my dishes section, since she loves experimenting with recipes and cooking a wide variety of food.
 - **Steven (close friend):** Found it easy for everyday macro tracking, and the B12 and B9 tracking gave him a simple way to keep an eye on those nutrients.
 
 ## Architecture
