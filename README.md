@@ -65,6 +65,7 @@ MealMind was installed and used by **10+ people aged 18 to 50**, on their own ph
 - **Zayan (gym buddy):** Found it useful for tracking macros and micros without constant subscription pop-ups and upsells.
 - **Namrata (family member):** Liked tracking her overall nutrition, and was especially impressed by the my dishes section, since she loves experimenting with recipes and cooking a wide variety of food.
 - **Steven (close friend):** Found it easy for everyday macro tracking, and the B12 and B9 tracking gave him a simple way to keep an eye on those nutrients.
+- **Sameer (close friend):** Loved how simple and easy it was to track his nutrition. He was on a cut and reported losing about 1 kg that week while tracking with MealMind.
 
 ## Architecture
 
