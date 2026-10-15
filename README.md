@@ -92,7 +92,7 @@ flowchart TB
 
 ## Zero-guilt UX
 
-No streaks to break. No red "you're over budget" banners. No calorie-shaming copy. The goal is a tool people keep using for years, not one they delete after a week of guilt.
+No streaks to break. No red "you're over budget" banners( not untill you add 2x your daily calorie intake ). No calorie-shaming copy. The goal is a tool people keep using for years, not one they delete after a week of guilt.
 
 ## Hyperlocal, compliance-aware food data
 
